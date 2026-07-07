@@ -1,5 +1,10 @@
 ## Hi there, I'm Rishav Gusain 👋
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishav-gusain-70397021b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:rishavanalyst07@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
 ## 🚀 About Me
 Business Intelligence Analyst with 3 years of hands-on experience in transforming raw data into actionable insights.
 
