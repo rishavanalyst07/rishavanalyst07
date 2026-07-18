@@ -10,7 +10,7 @@
   </a>
 
 <a href="https://wa.me/919653263838" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
   <a href="https://rishavanalyst07.github.io/" target="_blank">
